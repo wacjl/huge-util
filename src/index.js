@@ -1,2 +1,1 @@
-import { a } from "./test";
-const aa = "11";
+export { intReg, emailReg } from "./reg/index";
